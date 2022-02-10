@@ -1,5 +1,0 @@
-Supervised -> Neural networks: https://www.kaggle.com/bulentsiyah/heart-disease-prediction-using-neural-networks/notebook 
-
-Unsupervised -> K-means clustering: https://www.kaggle.com/xvivancos/tutorial-clustering-wines-with-k-means
-
-Multilayer -> Autoencoder: https://www.kaggle.com/cdeotte/dog-autoencoder 
